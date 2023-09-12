@@ -1,0 +1,5 @@
+﻿  소스.cpp
+d:\박찬혁\api\chap30\pangpang\pangpang\소스.cpp(159): warning C4101: 'hPen' :참조되지 않은 지역 변수입니다.
+d:\박찬혁\api\chap30\pangpang\pangpang\소스.cpp(159): warning C4101: 'OldPen' :참조되지 않은 지역 변수입니다.
+  PangPang.vcxproj -> D:\박찬혁\API\Chap30\PangPang\Debug\PangPang.exe
+  PangPang.vcxproj -> D:\박찬혁\API\Chap30\PangPang\Debug\PangPang.pdb (Full PDB)
