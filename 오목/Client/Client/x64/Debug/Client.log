@@ -1,4 +1,0 @@
-﻿  소스.cpp
-e:\박찬혁\api\오목\client\client\소스.cpp(73): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
-e:\박찬혁\api\오목\client\client\소스.cpp(73): warning C4101: 'hOldBrush' :참조되지 않은 지역 변수입니다.
-  Client.vcxproj -> E:\박찬혁\API\오목\Client\x64\Debug\Client.exe
